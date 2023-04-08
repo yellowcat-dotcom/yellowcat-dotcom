@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone! 👋
 
 <!--
 **yellowcat-dotcom/yellowcat-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
